@@ -33,4 +33,4 @@ I made a 3D printed enclosure for this project, STL's and STEP's are avaiable fo
 It was not of the best quality, but it met perfectly.
 <a href="https://imgur.com/UenPx3U"><img src="https://i.imgur.com/UenPx3U.jpg" title="source: imgur.com" /></a>
 
-https://youtu.be/SRPcslP5UJQ
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SRPcslP5UJQ/0.jpg)](https://www.youtube.com/watch?v=SRPcslP5UJQ)
